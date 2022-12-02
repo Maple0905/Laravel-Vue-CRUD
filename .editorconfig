@@ -1,18 +1,9 @@
-root = true
+Can you share your email?
 
-[*]
-charset = utf-8
-end_of_line = lf
-insert_final_newline = true
-indent_style = space
-indent_size = 4
-trim_trailing_whitespace = true
+ This is my email address.
+ilija.dev7@outlook.com
 
-[*.md]
-trim_trailing_whitespace = false
+This is my skype_id.
+live:.cid.2ba5f9a583817953
 
-[*.{yml,yaml}]
-indent_size = 2
-
-[docker-compose.yml]
-indent_size = 4
+It's not comfortable to keep real time message on fl.
